@@ -1,6 +1,9 @@
-# expense_tracker
+# Expense Tracker
 
-A new Flutter project.
+Aplikacja służy do zapisywania i kontrolowania swoich wydatków.
+
+![Screen_1](https://github.com/dejwid03/expense_tracker/blob/main/screenshots/Screenshot_1715028183.png)
+![Screen_2](https://github.com/dejwid03/expense_tracker/blob/main/screenshots/Screenshot_1715028193.png)
 
 ## Getting Started
 
